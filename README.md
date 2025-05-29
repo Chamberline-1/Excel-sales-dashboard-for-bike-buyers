@@ -20,6 +20,8 @@ This project aims to address this challenge by developing an interactive Excel s
 - Data analysis and interpretation
 - Dashboard design
 
+![](https://github.com/Chamberline-1/Excel-sales-dashboard-for-bike-buyers/blob/main/excel%20dashboard.png)
+
 # Analysis
 1. Bike Purchase Rate:
 A clear distinction was found between bike purchasers and non-purchasers, providing a baseline for further segmentation.
